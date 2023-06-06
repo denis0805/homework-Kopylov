@@ -1,3 +1,12 @@
 body{
     background-color: rgb(70, 68, 199);
 }
+h1 {
+    text-align: center;
+}
+#one{
+    background-color: aqua;
+}
+#two{
+    background-color: beige;
+}
