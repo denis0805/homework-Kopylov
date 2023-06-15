@@ -5,8 +5,15 @@ h1 {
     text-align: center;
 }
 #one{
-    background-color: aqua;
+    background-color: rgb(139, 209, 47);
 }
 #two{
-    background-color: beige;
+    background-color: rgb(206, 206, 169);
+}
+#three{
+    width: 600px; ;
+    height: 400px; ;
+}
+div {
+    text-align: center;
 }
